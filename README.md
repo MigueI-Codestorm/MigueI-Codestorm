@@ -65,7 +65,7 @@ Atualmente trabalhando nos meus **primeiros repositórios**, voltados para:
 ### Arte e Personalização
 
 <p align="center">
-  <img src="[https://octodex.github.com/images/daftpunktocat-thomas.gif](https://cdn.discordapp.com/attachments/1369338392663425205/1375291618793619486/ezgif-6c7421c0e005a8.gif?ex=683127a1&is=682fd621&hm=dd94df585ff21db3f666ea33837f9a8811ab3b046fdedd9a0869bb97fb425568&)" width="500" alt="Arte personalizada animada" />
+  <img src="https://cdn.discordapp.com/attachments/1369338392663425205/1375291618793619486/ezgif-6c7421c0e005a8.gif?ex=683127a1&is=682fd621&hm=dd94df585ff21db3f666ea33837f9a8811ab3b046fdedd9a0869bb97fb425568&" width="500" alt="Arte personalizada animada" />
 </p>
 
 
