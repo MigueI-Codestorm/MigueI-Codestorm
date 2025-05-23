@@ -65,7 +65,7 @@ Atualmente trabalhando nos meus **primeiros repositórios**, voltados para:
 ### Arte e Personalização
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Miguel-Codestorm/Miguel-Codestorm/main/assets/ezgif-6c7421c0e005a8.gif" width="600" alt="Arte personalizada animada" />
+  <img src="https://raw.githubusercontent.com/MigueI-Codestorm/MigueI-Codestorm/refs/heads/main/assets/ezgif-6c7421c0e005a8.gif" width="600" alt="Arte personalizada animada" />
 </p>
 
 ---
