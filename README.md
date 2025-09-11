@@ -1,7 +1,7 @@
-<h1 align="center">Miguel CodeStorm</h1>
+<h1 align="center">Israel Miguel D.S Quiroz</h1>
 <p align="center">
-  Desenvolvedor em formação | Estudante de Engenharia de Prompt | Explorador do universo tech  
-  <br><strong>(Iniciante no ramo, mas com sede de construir com propósito)</strong>
+  Desenvolvedor em formação | Estudante Full Stack | Apaixonado pelo universo tech  
+  <br><strong>(Iniciante no ramo, mas com sede de construção)</strong>
 </p>
 
 <p align="center">
@@ -12,9 +12,9 @@
 
 ### Sobre mim
 
-Sou um entusiasta da tecnologia que decidiu transformar ideias em código. Embora esteja **iniciando minha jornada como desenvolvedor**, estudo com profundidade **engenharia de prompt** e as **bases da programação**, buscando compreender o funcionamento real por trás das ferramentas de inteligência artificial.
+Sou um entusiasta da tecnologia que decidiu transformar ideias em código. Atualmente, **estudo Full Stack** e me dedico a construir **projetos completos**, desde o front-end até o back-end, explorando também **LLMs (Inteligência Artificial)** e automações com **N8N**.
 
-Acredito que **dominar os fundamentos é essencial** — não apenas para usar a IA, mas para saber **quando corrigi-la**. Minha missão é construir soluções **funcionais, criativas e acessíveis**, aliando **automação, inteligência e lógica** ao desenvolvimento.
+Acredito que **dominar fundamentos e ferramentas é essencial** — não apenas para criar aplicações funcionais, mas também para compreender. Minha missão é desenvolver soluções **criativas, eficientes e acessíveis**, integrando **automação, IA e lógica** ao desenvolvimento Full Stack.
 
 ---
 
@@ -24,16 +24,9 @@ Acredito que **dominar os fundamentos é essencial** — não apenas para usar a
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
-![Lovable.dev](https://img.shields.io/badge/Lovable.dev-5A32B5?style=flat&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude-0057FF?style=flat&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini-000000?style=flat&logo=google&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![N8N](https://img.shields.io/badge/N8N-FF3C00?style=flat&logoColor=white)
 
 ---
 
@@ -41,11 +34,13 @@ Acredito que **dominar os fundamentos é essencial** — não apenas para usar a
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logo=openai&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Claude AI](https://img.shields.io/badge/Claude-0057FF?style=flat&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini-000000?style=flat&logo=google&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logo=openai&logoColor=white)
 
 ---
 
