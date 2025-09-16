@@ -57,7 +57,7 @@ Acredito que o aprendizado contínuo é a chave para o sucesso e estou sempre bu
 
 ### Contato e Links
 
-- **Email:** [codestrm@gmail.com](mailto:contato@codestrm.com.br)
+- **Email:** [contato@codestrm.com.br](mailto:contato@codestrm.com.br)
 - **LinkedIn:** [linkedin.com/in/miguel-codestorm](https://www.linkedin.com/in/miguel-codestorm)
 
 ---
