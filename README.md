@@ -70,7 +70,7 @@ Minha jornada full-stack é construída sobre um conjunto de tecnologias estrat�
 <h2> 📊 Minhas Estatísticas no GitHub</h2>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Miguel-MirageScript&theme=tokyonight" alt="Trofêus do GitHub de Miguel-MirageScript" />
+<img src="https://github-profile-trophy.vercel.app/?username=Miguel-MirageScript&theme=tokyonight&column=9" alt="Trofêus do GitHub de Miguel-MirageScript" />
 </p>
 
 Acredito na transparência e no poder dos dados para contar minha história. É importante notar que grande parte do meu trabalho mais intensivo, incluindo projetos de clientes e estudos aprofundados (que somam centenas de commits), ocorre em **repositórios privados**.
@@ -106,10 +106,10 @@ Os gráficos abaixo estão configurados para incluir esses commits (`count_priva
   <tr align="center">
     <td colspan="2">
       <br>
-      <img 
-        src="https://github-readme-activity-graph.vercel.app/graph?username=MigueI-Codestorm&theme=react-dark" 
-        alt="Gráfico de Contribuições de Miguel"
-      />
+<img 
+src="https://github-readme-activity-graph.vercel.app/graph?username=Miguel-MirageScript&theme=react-dark" 
+alt="Gráfico de Contribuições de Miguel"
+/>
     </td>
   </tr>
 </table>
