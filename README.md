@@ -69,6 +69,10 @@ Minha jornada full-stack é construída sobre um conjunto de tecnologias estrat�
 
 <h2> 📊 Minhas Estatísticas no GitHub</h2>
 
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Miguel-MirageScript&theme=tokyonight" alt="Trofêus do GitHub de Miguel-MirageScript" />
+</p>
+
 Acredito na transparência e no poder dos dados para contar minha história. É importante notar que grande parte do meu trabalho mais intensivo, incluindo projetos de clientes e estudos aprofundados (que somam centenas de commits), ocorre em **repositórios privados**.
 
 Os gráficos abaixo estão configurados para incluir esses commits (`count_private=true`) e refletem minha dedicação diária.
