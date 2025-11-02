@@ -22,7 +22,9 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 <h2> 🚀 Sobre Mim</h2>
 
@@ -30,7 +32,7 @@ Sou um entusiasta da tecnologia que decidiu transformar ideias em código. Como 
 
 Junto com meu sócio, fundei a [**Mirage Script**](https://github.com/Mirage-Script), nossa agência de desenvolvimento onde aplicamos nosso conhecimento para criar soluções reais. Acredito que o aprendizado contínuo é a chave, e meu compromisso é criar soluções funcionais e de alta qualidade.
 
-<h2> 💻 Minha Tech Stack</h2>
+<h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20">  Minha Tech Stack</h2>
 
 Minha jornada full-stack é construída sobre um conjunto de tecnologias estratégicas. Estou constantemente estudando e me aprofundando nas ferramentas abaixo através de cursos e prática diária, focando em robustez, escalabilidade e agilidade.
 
@@ -67,7 +69,7 @@ Minha jornada full-stack é construída sobre um conjunto de tecnologias estrat�
   </a>
 </p>
 
-<h2> 📊 Minhas Estatísticas no GitHub</h2>
+<h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25">  Minhas Estatísticas no GitHub</h2>
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Miguel-MirageScript&theme=tokyonight&column=9" alt="Trofêus do GitHub de Miguel-MirageScript" />
@@ -113,16 +115,21 @@ alt="Gráfico de Contribuições de Miguel"
     </td>
   </tr>
 </table>
----
 
-<h2> 🏆 Projetos em Destaque</h2>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+<h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20">  Projetos em Destaque</h2>
 
 | Projeto | Descrição | Status |
 | :--- | :--- | :---: |
 | `Food-Delivery` | Um aplicativo de entrega de comida multi-fornecedor completo, construído com foco em escalabilidade. | Em Andamento |
 | `Python CodeStorm` | Plataforma de código aberto criada para ajudar iniciantes a aprender a lógica e a sintaxe do Python. | Pausado |
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 <h2> 💡 Minha Filosofia</h2>
 
@@ -132,7 +139,9 @@ alt="Gráfico de Contribuições de Miguel"
 
 > *"Grandes ideias merecem ser construídas com propósito, não com pressa."*
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/MigueI-Codestorm/MigueI-Codestorm/refs/heads/main/assets/assets/ezgif-6c7421c0e005a8.gif" alt="Banner animado de código" width="1000" height="300"/>
